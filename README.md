@@ -1,5 +1,6 @@
 PART 1
 Directions on using Git & GitHub
+
 Git is a VCS (Version Control System) used for code management and GitHub is website that offers online repository services.
 You can use git withuot GitHub but you cannot use GitHub without git.
 Step by Step on how to use git and GitHub
