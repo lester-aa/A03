@@ -24,14 +24,14 @@ Step by Step on how to use git and GitHub
 PART 2 Glosary
 
 * Branch
-Clone
-Commit
-Fetch
-GIT
-Github
-Merge
-Merge Conflict
-Push
-Pull
-Remote
-Repository
+* Clone
+* Commit
+* Fetch
+* GIT
+* Github
+* Merge
+* Merge Conflict
+* Push
+* Pull
+* Remote
+* Repository
