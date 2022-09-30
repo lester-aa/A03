@@ -1,7 +1,7 @@
 PART 1
 Directions on using Git,gitHub and webstorm.
 
-**Git** is a VCS (Version Control System) used for code management and GitHub is website that offers online repository services.
+***Git*** is a VCS (Version Control System) used for code management and GitHub is website that offers online repository services.
 You can use git withuot GitHub but you cannot use GitHub without git. Webstorm is an Integrated Development Environment(IDE) used for coding in JavaScrript, HTML, CSS.
 Webstorm lets you managed Git projects hosted on GitHub directly from the IDE.
 Step by Step on how to use git and GitHub
