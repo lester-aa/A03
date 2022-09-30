@@ -23,7 +23,7 @@ Step by Step on how to use git and GitHub
  
 PART 2 Glosary
 
-*Branch
+* Branch
 Clone
 Commit
 Fetch
