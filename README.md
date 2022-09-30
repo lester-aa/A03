@@ -34,4 +34,4 @@ Merge Conflict
 Push
 Pull
 Remote
-*Repository
+Repository
