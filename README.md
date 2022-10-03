@@ -22,15 +22,15 @@ Step by Step on how to use Git, GitHub & Webstorm.
  
 PART 2 Glosary
 
-* Branch
-* Clone
-* Commit
+* Branch -
+* Clone -
+* Commit -
 * Fetch
-* GIT
-* Github
+* GIT -
+* Github -
 * Merge
 * Merge Conflict
-* Push
-* Pull
-* Remote
-* Repository
+* Push -
+* Pull -
+* Remote -
+* Repository - 
