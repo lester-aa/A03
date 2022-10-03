@@ -17,20 +17,22 @@ Step by Step on how to use Git, GitHub & Webstorm.
 9. The files are now on GitHub.
 10. Set up GitHub pages by clicking Settings and checking the repository name.
 11. Choose a GitHub page location. Select "Master ***BRANCH***"
+12. You can create a new branch in webstorm by clicking  on the branches pop-up,  choose new branch.
+13. In the dialog that opens, specify the branch name and make sure the checkout branch is selected if you want to switch to that branch.
 
  
  
-PART 2 Glosary
+PART 2 Glossary
 
-* Branch -
-* Clone -
-* Commit -
-* Fetch
-* GIT -
-* Github -
-* Merge
-* Merge Conflict
-* Push -
-* Pull -
-* Remote -
-* Repository - 
+* Branch -a new / separate version of the main repository. branches allow you to work on different paths of a project without impacting the main branch.
+* Clone - a full copy of a repository, including all logging and version files.
+* Commit - keep tarck of progess and changes as we work. Git Consider each commit a change point or "save point".
+* Fetch - gets all the change history of a tracked branch/repo. On your local Git, fetch udpates to see what has changed on Github.
+* GIT -  is afree and open source distributed code managemenet and version control. In addition to software version control, Git is used for other applications including configuration management and content management.
+* Github - is an online software development platform used for storing, tracking and collaborating on software projects. it enables developes to upload their own code files and to collaborate with fellow developers to upload their own code files to collaborate with fellow developers on open-source projects.
+* Merge - combines the current branch, with a specfied branch.
+* Merge Conflict - an event that takes place when Git is unable to automatically resolve differences in code between two commits.
+* Push - used to upload local repository content to a remote repository. Pushing is a how you transfer commits from your local repository to a remote repo.
+* Pull - is a combination of fetch and merge. it is used to pull changes from a remote repository into the branch you are working on.
+* Remote - a remote repository in Git, also called a remote, is  a Git repository thats hosted on the internet or another network.
+* Repository - tracks and saves the history of all changes made to the files in a Git project.
